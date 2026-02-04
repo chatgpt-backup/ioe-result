@@ -23,7 +23,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: node --use-system-ca dist/main.js
+        run: node --use-openssl-ca dist/main.js
 
       - name: Commit and push if changes
         run: |
