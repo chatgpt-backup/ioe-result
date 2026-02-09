@@ -35,3 +35,19 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/notices.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update notices - $(TZ=Asia/Kathmandu date +'%Y-%m-%d %H:%M')" && git push)
+
+  sync-notices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Smart Pulchowk notice sync
+        env:
+          NOTICE_SYNC_URL: ${{ secrets.NOTICE_SYNC_URL }}
+        run: |
+          if [ -z "$NOTICE_SYNC_URL" ]; then
+            echo "NOTICE_SYNC_URL secret is not set"
+            exit 1
+          fi
+          curl --fail --show-error --silent "$NOTICE_SYNC_URL" | tee sync-response.json
+          echo "Sync response:"
+          cat sync-response.json
