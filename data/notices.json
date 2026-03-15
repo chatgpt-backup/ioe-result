@@ -1,6 +1,11 @@
 [
     {
         "nep_date": "2026-03-15",
+        "title": "Result BE Lateral Entry Exam",
+        "link": "https://portal.tu.edu.np/downloads/ResultBELateralEntryExam_2026_03_15_19_24_43.pdf"
+    },
+    {
+        "nep_date": "2026-03-15",
         "title": "Retotalling Result BE BAR IV Year I Part 2082 Bhadra",
         "link": "https://portal.tu.edu.np/downloads/RetotallingResultBEBARIV_2026_03_15_19_20_13.jpeg"
     },
@@ -23,10 +28,5 @@
         "nep_date": "2026-03-12",
         "title": "Retotalling Result BE BAR III Year II Part (Old Course) 2082 Kartik- Back and I Year I Part New Course- Regular",
         "link": "https://portal.tu.edu.np/downloads/RetotallingResultBEBARIII_2026_03_12_19_35_56.jpeg"
-    },
-    {
-        "nep_date": "2026-03-11",
-        "title": "Exam Center BE BAR I and II Year II Part (Batch Out)",
-        "link": "https://portal.tu.edu.np/downloads/ExamCenterBEBARIandIIYe_2026_03_11_18_07_56.jpeg"
     }
 ]
