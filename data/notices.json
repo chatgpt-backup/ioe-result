@@ -1,5 +1,15 @@
 [
     {
+        "nep_date": "2026-03-26",
+        "title": "Examination Schedule MSC I Year II Part 2083 Baisakh",
+        "link": "https://portal.tu.edu.np/downloads/ExaminationScheduleMSCIYea_2026_03_27_14_49_09.pdf"
+    },
+    {
+        "nep_date": "2026-03-26",
+        "title": "Exam Center BE BAR Regular 2082 Chaitra",
+        "link": "https://portal.tu.edu.np/downloads/ExamCenterBEBARRegular20_2026_03_27_14_15_27.jpeg"
+    },
+    {
         "nep_date": "2026-03-25",
         "title": "Retotalling Result BE BAR II Year I Part (New Course) 2082 Back",
         "link": "https://portal.tu.edu.np/downloads/RetotallingResultBEBARIIY_2026_03_25_18_27_14.jpeg"
@@ -18,15 +28,5 @@
         "nep_date": "2026-03-20",
         "title": "Result BE Lateral Entry Exam 2082",
         "link": "https://exam.ioe.tu.edu.np/notices/11991"
-    },
-    {
-        "nep_date": "2026-03-20",
-        "title": "Result MSC I and II Year I Part 2082 Bhadra",
-        "link": "https://portal.tu.edu.np/downloads/ResultMSCIandIIYearIPar_2026_03_20_17_55_21.jpeg"
-    },
-    {
-        "nep_date": "2026-03-11",
-        "title": "Retotalling Result BE BAR II Year II Part (Old Course) 2082 Bhadra",
-        "link": "https://portal.tu.edu.np/downloads/RetotallingResultBEBARIIY_2026_03_17_18_15_27.jpeg"
     }
 ]
