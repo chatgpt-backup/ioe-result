@@ -1,5 +1,10 @@
 [
     {
+        "nep_date": "2026-04-28",
+        "title": "Exam Center BE BAR Regular 2083 Baishakh",
+        "link": "https://portal.tu.edu.np/downloads/ExamCenterBEBARBackExam_2026_04_28_16_38_44.jpeg"
+    },
+    {
         "nep_date": "2026-03-12",
         "title": "Result Retotalling BE-BAR III and II Year I Part 2082 Kartik (Old Course)",
         "link": "https://portal.tu.edu.np/downloads/ResultRetotallingBE-BARIII_2026_04_23_15_35_46.jpeg"
@@ -23,10 +28,5 @@
         "nep_date": "2026-04-12",
         "title": "3rd Revised Routine MSC I and II Year II Part 2083 Baisakh",
         "link": "https://portal.tu.edu.np/downloads/3rdRevisedRoutineMSCIand_2026_04_12_17_10_52.pdf"
-    },
-    {
-        "nep_date": "2026-04-10",
-        "title": "BE-BAR Routine I and II Year II Part (New Course) All Year I Part (Old Course )2083 Baisakh",
-        "link": "https://portal.tu.edu.np/downloads/BE-BARRoutineIandIIYearI_2026_04_10_19_57_42.pdf"
     }
 ]
