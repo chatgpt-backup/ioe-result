@@ -1,6 +1,11 @@
 [
     {
         "nep_date": "2026-05-26",
+        "title": "Result BE-BAR Batch Out II year II part 2082 Falgun",
+        "link": "https://portal.tu.edu.np/downloads/ResultBE-BARBatchOutIyear_2026_05_26_16_49_31.pdf"
+    },
+    {
+        "nep_date": "2026-05-26",
         "title": "Result BE-BAR Batch Out I year II part 2082 Falgun",
         "link": "https://portal.tu.edu.np/downloads/ResultBE-BARBatchOutIyear_2026_05_26_16_49_31.pdf"
     },
@@ -23,10 +28,5 @@
         "nep_date": "2026-03-12",
         "title": "Result Retotalling BE-BAR III and II Year I Part 2082 Kartik (Old Course)",
         "link": "https://portal.tu.edu.np/downloads/ResultRetotallingBE-BARIII_2026_04_23_15_35_46.jpeg"
-    },
-    {
-        "nep_date": "2026-04-22",
-        "title": "Special Chance MSC Thesis Exam 2083",
-        "link": "https://portal.tu.edu.np/downloads/SpecialChanceMSCThesisExam_2026_04_22_17_33_59.pdf"
     }
 ]
