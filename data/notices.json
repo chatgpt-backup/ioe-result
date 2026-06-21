@@ -1,5 +1,10 @@
 [
     {
+        "nep_date": "2026-06-21",
+        "title": "इ.अ.सं परीक्षा नियन्त्रण महाशाखा खुल्ला रहने सम्बन्धी सूचना",
+        "link": "https://exam.ioe.tu.edu.np/notices/13426"
+    },
+    {
         "nep_date": "2026-06-18",
         "title": "Notice Regarding Transcript for Batch Out",
         "link": "https://exam.ioe.tu.edu.np/notices/13392"
@@ -23,10 +28,5 @@
         "nep_date": "2026-05-26",
         "title": "Result BE-BAR Batch Out II year II part 2082 Falgun",
         "link": "https://portal.tu.edu.np/downloads/ResultBE-BARBatchOutIIyea_2026_05_26_21_09_29.pdf"
-    },
-    {
-        "nep_date": "2026-05-26",
-        "title": "Result BE-BAR Batch Out I year II part 2082 Falgun",
-        "link": "https://portal.tu.edu.np/downloads/ResultBE-BARBatchOutIyear_2026_05_26_16_49_31.pdf"
     }
 ]
