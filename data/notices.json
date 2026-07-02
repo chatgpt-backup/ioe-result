@@ -1,6 +1,11 @@
 [
     {
         "nep_date": "2026-07-01",
+        "title": "Result BE/BAR: BAR V Year II Part 2082 Chaitra",
+        "link": "https://exam.ioe.tu.edu.np/notices/13625"
+    },
+    {
+        "nep_date": "2026-07-01",
         "title": "Result MSC II Year II Part Thesis 2083 Baishak",
         "link": "https://exam.ioe.tu.edu.np/notices/13623"
     },
@@ -23,10 +28,5 @@
         "nep_date": "2026-06-10",
         "title": "Result MSC II Year II Part Thesis 2083 Baishak",
         "link": "https://portal.tu.edu.np/downloads/ResultMSCIIYearIIPartThe_2026_06_10_20_55_30.jpeg"
-    },
-    {
-        "nep_date": "2026-06-09",
-        "title": "Retotalling BE BAR I and II Year II Part Batch Out 2082 Falgun",
-        "link": "https://portal.tu.edu.np/downloads/RetotallingBEBARIandIIYe_2026_06_09_16_58_50.pdf"
     }
 ]
