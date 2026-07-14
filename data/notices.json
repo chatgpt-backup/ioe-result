@@ -1,5 +1,15 @@
 [
     {
+        "nep_date": "2026-07-14",
+        "title": "Online Form BE IV Year II Part and BAR V Year II Part Back - 2083 Shrawan",
+        "link": "https://exam.ioe.tu.edu.np/notices/13788"
+    },
+    {
+        "nep_date": "2026-07-14",
+        "title": "Online Form BE/BAR I, II, III Year I Part Batch Out - 2083 Shrawan",
+        "link": "https://exam.ioe.tu.edu.np/notices/13787"
+    },
+    {
         "nep_date": "2026-07-13",
         "title": "Result BE/BAR: BE IV Year II Part (Old Course) 2082 Chaitra",
         "link": "https://exam.ioe.tu.edu.np/notices/13784"
@@ -18,15 +28,5 @@
         "nep_date": "2026-07-10",
         "title": "Result BE/BAR: BE I Year I Part (New Course) 2082 Chaitra",
         "link": "https://exam.ioe.tu.edu.np/notices/13758"
-    },
-    {
-        "nep_date": "2026-07-06",
-        "title": "Result BE/BAR: BE IV Year II Part 2082 Chaitra",
-        "link": "https://exam.ioe.tu.edu.np/notices/13683"
-    },
-    {
-        "nep_date": "2026-07-01",
-        "title": "Result BE/BAR: BAR V Year II Part 2082 Chaitra",
-        "link": "https://exam.ioe.tu.edu.np/notices/13625"
     }
 ]
