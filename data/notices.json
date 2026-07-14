@@ -1,6 +1,21 @@
 [
     {
         "nep_date": "2026-07-14",
+        "title": "Result MSC II Year II Part Thesis 2083 Baishak/Jestha",
+        "link": "https://exam.ioe.tu.edu.np/notices/13811"
+    },
+    {
+        "nep_date": "2026-07-14",
+        "title": "Result BE/BAR: III Year I Part (Old Course) 2083 Baisakh",
+        "link": "https://exam.ioe.tu.edu.np/notices/13810"
+    },
+    {
+        "nep_date": "2026-07-14",
+        "title": "Result BE/BAR: BAG IV Year II Part 2082 Chaitra",
+        "link": "https://exam.ioe.tu.edu.np/notices/13809"
+    },
+    {
+        "nep_date": "2026-07-14",
         "title": "Online Form BE IV Year II Part and BAR V Year II Part Back - 2083 Shrawan",
         "link": "https://exam.ioe.tu.edu.np/notices/13788"
     },
@@ -13,20 +28,5 @@
         "nep_date": "2026-07-13",
         "title": "Result BE/BAR: BE IV Year II Part (Old Course) 2082 Chaitra",
         "link": "https://exam.ioe.tu.edu.np/notices/13784"
-    },
-    {
-        "nep_date": "2026-07-13",
-        "title": "Result BE/BAR: BE I Year I Part (Old Course) 2083 Baisakh",
-        "link": "https://exam.ioe.tu.edu.np/notices/13783"
-    },
-    {
-        "nep_date": "2026-07-10",
-        "title": "BE/BAR Routine Back (Batch-out)- 2083 Shrawan",
-        "link": "https://exam.ioe.tu.edu.np/notices/13759"
-    },
-    {
-        "nep_date": "2026-07-10",
-        "title": "Result BE/BAR: BE I Year I Part (New Course) 2082 Chaitra",
-        "link": "https://exam.ioe.tu.edu.np/notices/13758"
     }
 ]
