@@ -1,7 +1,12 @@
 [
     {
         "nep_date": "2026-07-21",
-        "title": "Result MSC II Year II Part Thesis 2083 Baishak (MSNCS)",
+        "title": "Re totalling: BE/BAR IV/II 2082 Chaitra",
+        "link": "https://exam.ioe.tu.edu.np/notices/13946"
+    },
+    {
+        "nep_date": "2026-07-21",
+        "title": "Result MSC II Year II Part Thesis 2083 Baishak (MSCNS)",
         "link": "https://exam.ioe.tu.edu.np/notices/13945"
     },
     {
@@ -23,10 +28,5 @@
         "nep_date": "2026-07-20",
         "title": "Result BE/BAR: BME II Year I Part (Old Course) 2083 Baisakh",
         "link": "https://exam.ioe.tu.edu.np/notices/13916"
-    },
-    {
-        "nep_date": "2026-07-20",
-        "title": "Result BE/BAR: II Year I Part (Old Course) 2083 Baisakh",
-        "link": "https://exam.ioe.tu.edu.np/notices/13890"
     }
 ]
