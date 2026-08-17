@@ -1,6 +1,11 @@
 [
     {
         "nep_date": "2026-08-16",
+        "title": "Correction Notice: Result BE/BAR: ARCH, ELEC I Year II Part 2083 Baisakh (New Course)",
+        "link": "https://exam.ioe.tu.edu.np/notices/14490"
+    },
+    {
+        "nep_date": "2026-08-16",
         "title": "MSc Routine 2083 Bhadra",
         "link": "https://exam.ioe.tu.edu.np/notices/14470"
     },
@@ -23,10 +28,5 @@
         "nep_date": "2026-08-12",
         "title": "Result BE/BAR: INDU III Year I Part 2082 Chaitra (New Course)",
         "link": "https://exam.ioe.tu.edu.np/notices/14374"
-    },
-    {
-        "nep_date": "2026-08-11",
-        "title": "Result BE/BAR: I Year II Part 2083 Baisakh (New Course)",
-        "link": "https://exam.ioe.tu.edu.np/notices/14369"
     }
 ]
