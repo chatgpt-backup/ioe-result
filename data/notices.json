@@ -1,5 +1,15 @@
 [
     {
+        "nep_date": "2026-08-21",
+        "title": "Re totalling: BE/BAR III/I (New Course) 2082 Chaitra",
+        "link": "https://exam.ioe.tu.edu.np/notices/14671"
+    },
+    {
+        "nep_date": "2026-08-21",
+        "title": "Result MSC I Year II Part 2083 Baishak (2nd phase)",
+        "link": "https://exam.ioe.tu.edu.np/notices/14670"
+    },
+    {
         "nep_date": "2026-08-20",
         "title": "Notice Regarding Dispatch of Transcripts for B.E. / B.Arch Programs (2083 Baisakh)",
         "link": "https://exam.ioe.tu.edu.np/notices/14644"
@@ -18,15 +28,5 @@
         "nep_date": "2026-08-19",
         "title": "Result BE/BAR: CIVL II Year II Part 2083 Baisakh (New Course)",
         "link": "https://exam.ioe.tu.edu.np/notices/14610"
-    },
-    {
-        "nep_date": "2026-08-18",
-        "title": "Result MSC I Year II Part 2083 Baishak",
-        "link": "https://exam.ioe.tu.edu.np/notices/14563"
-    },
-    {
-        "nep_date": "2026-08-18",
-        "title": "Notice Regarding Dispatch of Transcripts for B.E. / B.Arch Programs (BEI, BCH,BAS, BME))",
-        "link": "https://exam.ioe.tu.edu.np/notices/14562"
     }
 ]
