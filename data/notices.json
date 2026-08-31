@@ -1,5 +1,15 @@
 [
     {
+        "nep_date": "2026-08-31",
+        "title": "BE/BAR Routine (Revised)",
+        "link": "https://exam.ioe.tu.edu.np/notices/14940"
+    },
+    {
+        "nep_date": "2026-08-31",
+        "title": "Notice Regarding the Resumption of Semester Examinations",
+        "link": "https://exam.ioe.tu.edu.np/notices/14939"
+    },
+    {
         "nep_date": "2026-08-28",
         "title": "Notice Regarding the Postponement of the Scheduled Semester Examinations",
         "link": "https://exam.ioe.tu.edu.np/notices/14898"
@@ -18,15 +28,5 @@
         "nep_date": "2026-08-25",
         "title": "Exam Center: BE/BAR I, II, III Year II Part Regular (New Course), BE IV Year I Part and BAR V Year I Part Regular/Back - 2083 Bhadra",
         "link": "https://exam.ioe.tu.edu.np/notices/14771"
-    },
-    {
-        "nep_date": "2026-08-24",
-        "title": "Result MSC I Year II Part 2083 Baishak (3rd phase)",
-        "link": "https://exam.ioe.tu.edu.np/notices/14734"
-    },
-    {
-        "nep_date": "2026-08-24",
-        "title": "Re totalling: BE/BAR III/I (New Course) 2082 Chaitra",
-        "link": "https://exam.ioe.tu.edu.np/notices/14733"
     }
 ]
